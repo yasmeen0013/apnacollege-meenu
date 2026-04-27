@@ -1,4 +1,4 @@
 # apnacollege-meenu
 This is my first repository
 <br>
-Author - Salma Yasmeen
+Author - Salma Yasmeen (Meenu)
